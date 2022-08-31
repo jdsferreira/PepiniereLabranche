@@ -1,0 +1,15 @@
+#image {
+	width: 30%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+table {
+	width: 550px;
+	height: 350px;
+	text-align:center;
+	vertical-align:central;
+	margin-left: auto;
+	margin-right: auto;
+}
